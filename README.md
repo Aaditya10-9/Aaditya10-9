@@ -8,6 +8,7 @@ Welcome to my GitHub! I build production backend systems, data pipelines, and au
 
 ## 🚀 About Me
 
+- ⭐ **5-Star Python** on HackerRank
 - 🔭 I'm currently working on **AI-integrated backend services**
 - 🌱 I'm currently learning **Docker, FastAPI, and AWS**
 - 💬 Ask me about **Python, Web Scraping, System Optimization**
