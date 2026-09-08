@@ -35,7 +35,7 @@ Modern containerized FastAPI backend service demonstrating REST API design, asyn
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+<!--
 ---
 
 ## 📊 GitHub Stats
@@ -43,5 +43,5 @@ Modern containerized FastAPI backend service demonstrating REST API design, asyn
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaditya10-9&show_icons=true&theme=radical)
 
 ---
-
+-->
 *Thanks for visiting! Feel free to explore my repos and reach out.*
