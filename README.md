@@ -20,7 +20,7 @@ Welcome to my GitHub! I build production backend systems, data pipelines, and au
 ## 📌 Featured Projects
 
 ### 🏗️ [System Design Portfolio](https://github.com/Aaditya10-9/system-design-portfolio)
-Production system design and optimization case studies — including 75% performance improvements and 5,000+ automated data points per month.
+Production system design and optimization case studies — including 75% performance improvements and 45,000+ automated data points per month.
 
 ### 🚀 [FastAPI AI Analyzer](https://github.com/Aaditya10-9/fastapi-ai-analyzer)
 Modern containerized FastAPI backend service demonstrating REST API design, async programming, and web scraping.
